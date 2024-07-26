@@ -18,3 +18,8 @@ Coupling refers to the degree of direct knowledge one class has about another. L
 
 An object is an instance of a class. When a class is defined, no memory is allocated until an object of that class is created. The object has its own state, behavior, and identity. It’s the implementation of the class blueprint.
 
+MULTIPLE INHERITANCE - DIAMOND PROBLEM IN JAVA --->> USE INTERFACE
+
+method overloading - compile time polymorphism
+method overriding - run time polymorphism
+
