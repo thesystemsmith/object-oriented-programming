@@ -16,3 +16,5 @@ In polymorphism, when a method is called, Java determines which version of the m
 
 Coupling refers to the degree of direct knowledge one class has about another. Lower coupling is desirable because it makes a system more modular and adaptable. Cohesion refers to how closely the operations in a class are related to each other. High cohesion is desirable because it means that a class is designed to do a specific job well.
 
+An object is an instance of a class. When a class is defined, no memory is allocated until an object of that class is created. The object has its own state, behavior, and identity. It’s the implementation of the class blueprint.
+
